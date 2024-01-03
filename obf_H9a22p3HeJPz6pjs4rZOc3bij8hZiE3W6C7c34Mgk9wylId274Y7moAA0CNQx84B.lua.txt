@@ -1,2 +1,2 @@
 game:GetService("Players").LocalPlayer:SetAttribute("ChatTag", "developer")
-game:GetService("Players").LocalPlayer:SetAttribute("ChatTagColor", Color3.new(1, 0, 0))
+game:GetService("Players").LocalPlayer:SetAttribute("ChatTagColor", Color3.new(1, 0.6, 0))
